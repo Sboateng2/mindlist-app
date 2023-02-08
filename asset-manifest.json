@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mindlist-app/static/js/main.c4564580.js",
+    "index.html": "/mindlist-app/index.html",
+    "main.c4564580.js.map": "/mindlist-app/static/js/main.c4564580.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4564580.js"
+  ]
+}
